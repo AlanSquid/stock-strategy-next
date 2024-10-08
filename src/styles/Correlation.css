@@ -1,0 +1,29 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    width: 80vw;
+}
+
+/* 標題樣式 */
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #343a40;
+    
+}
+table {
+    text-align: center; 
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin: 5px;
+}

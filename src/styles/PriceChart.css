@@ -1,0 +1,42 @@
+.axis {
+    stroke: #383E55;
+    stroke-width: 2;
+}
+
+.axis .tick text {
+    fill: #9EAAC7;
+}
+
+.axis .tick line {
+    stroke: #383E55;
+}
+
+.axis .domain {
+    stroke: #383E55;
+}
+
+.grid-lines {
+    stroke: rgba(56, 62, 85, 0.5);
+}
+
+.coordinate {
+    fill: #383E55;
+}
+
+.coordinate text {
+    fill: #FFFFFF;
+}
+
+.zoom-button {
+    fill: #383E55;
+    fill-opacity: 0.75;
+    stroke-width: 0;
+}
+
+.zoom-button text {
+    fill: #9EAAC7;
+}
+
+.crosshair {
+    stroke: #9EAAC7;
+}

@@ -1,0 +1,54 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .stockForm {
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin: 3%;
+
+        .stockFormGroup {
+            margin: 1%;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .stockFormButton {
+            margin-left: 30%;
+        }
+    }
+   .stockBox{ 
+    width: 80%;
+    background-color: #FFF;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 2% 4%;
+    margin: 1%;
+
+    .stockTitle{
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .stockChart {
+        height: 70vh;
+        width: 100%;
+    }}
+
+
+
+    
+    .relateBox {
+        font-size: 1.2rem;
+        display: flex;
+        flex-direction: column;
+        margin: 1%;
+        .relateItem {
+            display: flex;
+            width: 100%;
+        }
+    }
+}
